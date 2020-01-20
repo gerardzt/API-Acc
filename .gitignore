@@ -1,1 +1,5 @@
-js\bootstrap
+js\
+*id-config
+/config/
+.class
+
